@@ -1,0 +1,6 @@
+function(int hello)
+{
+	hi:=25 + "Merhaba"; (*addition *)
+	hello++; (*increment*)
+	break;
+}
